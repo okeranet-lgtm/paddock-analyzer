@@ -1,10 +1,1 @@
-streamlit>=1.32.0
-numpy==1.26.4
-opencv-python-headless>=4.8.0
-Pillow>=10.0.0
-pandas>=2.0.0
-matplotlib>=3.7.0
-torch>=2.0.0
-torchvision>=0.15.0
-filterpy>=1.4.5
-deeplabcut==3.0.0rc13
+#
