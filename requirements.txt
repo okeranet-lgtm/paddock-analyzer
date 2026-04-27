@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+numpy==1.26.4
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+onnxruntime>=1.17.0
+huggingface_hub>=0.20.0
+scipy>=1.11.0
+ 
